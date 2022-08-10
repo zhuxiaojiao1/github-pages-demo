@@ -22,5 +22,5 @@ jobs:
         with:
           token: ${{secrets.MY_TOKEN}}
           folder: build # The folder the action should deploy.
-          branch: main
+          # branch:
           repository-name: zhuxiaojiao1/zhuxiaojiao1.github.io/study_demo03
